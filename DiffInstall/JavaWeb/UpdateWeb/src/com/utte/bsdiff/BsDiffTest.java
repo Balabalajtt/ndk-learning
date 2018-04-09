@@ -1,7 +1,5 @@
 package com.utte.bsdiff;
 
-import com.utte.bsdiff.ConstantWin;
-
 public class BsDiffTest {
     public static void main(String[] args){
         //得到差分包
